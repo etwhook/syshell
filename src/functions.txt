@@ -1,0 +1,6 @@
+NtOpenProcess
+NtClose
+NtAllocateVirtualMemory
+NtWriteVirtualMemory
+NtProtectVirtualMemory
+NtCreateThreadEx
